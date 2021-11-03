@@ -18,4 +18,4 @@ rails学習のアウトプット</br>
 ## 環境
 ・HTML5</br>
 ・CSS3</br>
-・rails
+・Ruby on Rails
